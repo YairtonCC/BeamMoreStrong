@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../BeamStrong/BeamStrong.csproj" Id="6c3d6128-8fad-4e74-8763-2818bbbb6ecf" />
+  <Project Path="BeamMoreStrong.csproj" />
+</Solution>
